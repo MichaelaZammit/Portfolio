@@ -1,0 +1,47 @@
+.menuItem
+{
+    display: flex;
+    align-items: centre;
+    justify-content: space-between; 
+    font-family: 'Poppins', sans-serif;
+    padding: 20px 70px;
+    }
+
+.text
+{
+    font-size: 20px;
+    line-height: 30px;
+    text-transform: inherit;
+    display: flex;
+    align-items: left;
+    justify-content: space-between; 
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 50px
+}
+
+.header
+{
+    font-size: 30px;
+    line-height: 30px;
+    text-transform: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    font-family: 'Poppins', sans-serif;
+    padding: 0px 50px
+}
+
+.table
+{
+    padding: 0px 50px;
+}
+
+.table-header
+{
+    padding: 50px 450px;
+}
+
+.table-time
+{
+    padding: 0px 50px;
+}
